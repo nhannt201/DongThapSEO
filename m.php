@@ -1,0 +1,1 @@
+Thiet bi cua ban khong duoc ho tro!

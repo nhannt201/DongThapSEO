@@ -1,0 +1,308 @@
+[02-May-2017 11:26:42 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/Dongthapseo.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[02-May-2017 11:26:42 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/Dongthapseo.com8232.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[02-May-2017 21:05:29 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/Longvan.link8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[02-May-2017 21:05:29 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/Longvan.link8232.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[02-May-2017 21:15:14 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/genes.comWUkMZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[03-May-2017 00:29:00 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[03-May-2017 00:29:00 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[03-May-2017 05:26:58 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[03-May-2017 05:26:58 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://dongthapseo.com8232/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[03-May-2017 05:26:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/trungnhan/public_html/img.php on line 179
+[03-May-2017 06:14:20 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/genes.comNnaXZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[03-May-2017 07:51:01 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/beensomewhere.bizWonVZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[03-May-2017 07:51:01 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/beensomewhere.bizWonVZ.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[03-May-2017 09:29:50 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[03-May-2017 09:29:50 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://exsome3.biz/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[03-May-2017 09:29:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/trungnhan/public_html/img.php on line 179
+[04-May-2017 10:47:57 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 10:47:57 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 12:22:52 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/Longvan.link8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 12:22:52 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/Longvan.link8232.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 14:05:14 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[04-May-2017 14:05:14 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://luutru360.com8232/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[04-May-2017 14:05:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/trungnhan/public_html/img.php on line 179
+[04-May-2017 14:05:23 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/searchesinteractive.com?dn=vinasat.com&amp;pid=9POG2U48X.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[04-May-2017 20:38:29 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/banlait.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 20:38:29 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/banlait.com .txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 21:23:35 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/nuda.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[04-May-2017 21:23:35 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/nuda.vn
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[05-May-2017 03:03:17 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/searchesinteractive.com?dn=vinasat.com&amp;pid=9POG2U48X.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[05-May-2017 11:22:30 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/searchesinteractive.com?dn=vinasat.com&amp;pid=9POG2U48X.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[05-May-2017 11:22:30 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/searchesinteractive.com?dn=vinasat.com&amp;pid=9POG2U48X.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 02:02:39 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/beensomewhere.bizYimSZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 02:02:39 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/beensomewhere.bizYimSZ.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 03:06:05 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[06-May-2017 03:06:05 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://exsome3.biz/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[06-May-2017 03:06:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/trungnhan/public_html/img.php on line 179
+[06-May-2017 03:25:11 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/searchesinteractive.com?dn=vinasat.com&amp;pid=9POG2U48X.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 03:25:11 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/searchesinteractive.com?dn=vinasat.com&amp;pid=9POG2U48X.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 12:14:02 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/itrum.net .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 12:14:02 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/itrum.net .txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 12:42:46 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/danmuit.com?d=1.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[06-May-2017 13:34:42 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[06-May-2017 19:56:50 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww1.danangspace.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[06-May-2017 20:14:25 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/nuda.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[06-May-2017 20:14:25 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/nuda.vn
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:23:09 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/vn2.7msport.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:23:09 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vn2.7msport.com.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:23:28 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/vn2.7msport.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:23:28 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vn2.7msport.com.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:23:48 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/vn2.7msport.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:23:48 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vn2.7msport.com.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:52:47 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:52:47 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:52:51 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/eobot.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 01:52:51 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/eobot.com
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 06:20:25 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/tlmetals.vn .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 06:20:25 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tlmetals.vn .txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 07:28:07 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/kt-browser.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 07:28:07 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/kt-browser.com .txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 07:58:46 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/hoingay.luutru360.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 07:58:46 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/hoingay.luutru360.com8232.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 09:00:30 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/didongviet.vn .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[07-May-2017 09:00:30 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/didongviet.vn .txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[08-May-2017 07:37:13 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/meomay.net8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[08-May-2017 14:03:18 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/faplus.ga8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[08-May-2017 14:03:18 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/faplus.ga8232.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[08-May-2017 18:46:41 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww38.phim6s.net.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[08-May-2017 18:47:42 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/faplus.ga8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[08-May-2017 18:47:42 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/faplus.ga8232.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 06:07:37 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/faplus.ga8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[09-May-2017 09:42:46 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 09:42:46 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 10:17:00 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/eobot.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 10:17:00 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/eobot.com
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 13:47:36 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/beensomewhere.bizPegaZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 13:47:36 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/beensomewhere.bizPegaZ.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[09-May-2017 14:35:14 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww1.danangspace.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[09-May-2017 14:45:02 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww1.danangspace.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[09-May-2017 16:23:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function attributes() on null in /home/trungnhan/public_html/check2.php on line 349
+[09-May-2017 19:16:33 Asia/Ho_Chi_Minh] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww1.danangspace.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[09-May-2017 19:31:28 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://adclick.g.doubleclick.net/): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/trungnhan/public_html/img.php on line 176
+[09-May-2017 19:31:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/trungnhan/public_html/img.php on line 179
+[10-May-2017 13:08:31 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 13:08:31 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/thefreedictionary.com
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 13:27:47 Asia/Ho_Chi_Minh] PHP Warning:  simplexml_load_file(http://data.alexa.com/data?cli=10&amp;dat=snbamz&amp;url=hoingay.luutru360.com): failed to open stream: Connection timed out in /home/trungnhan/public_html/check2.php on line 347
+[10-May-2017 13:27:47 Asia/Ho_Chi_Minh] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://data.alexa.com/data?cli=10&amp;dat=snbamz&amp;url=hoingay.luutru360.com&quot; in /home/trungnhan/public_html/check2.php on line 347
+[10-May-2017 13:27:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property of non-object in /home/trungnhan/public_html/check2.php on line 349
+[10-May-2017 13:27:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function attributes() on null in /home/trungnhan/public_html/check2.php on line 349
+[10-May-2017 15:08:36 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 15:08:36 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 21:16:45 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/ww38.phim6s.net.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 21:16:45 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/ww38.phim6s.net.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 22:03:58 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/nuda.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[10-May-2017 22:03:58 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/nuda.vn
+.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 02:37:01 Asia/Ho_Chi_Minh] PHP Warning:  include(/home/trungnhan/public_html/tieude/vov1.vnDefault.aspx.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 02:37:01 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vov1.vnDefault.aspx.txt' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 12:12:16 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[11-May-2017 12:12:16 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(http://pharaong.com/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[11-May-2017 12:12:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function find() on boolean in /home/trungnhan/public_html/img.php on line 179
+[11-May-2017 11:13:12 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 11:13:12 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 11:13:12 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 18:30:17 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vov1.vnDefault.aspx.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 18:30:17 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vov1.vnDefault.aspx.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 18:30:17 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vov1.vnDefault.aspx.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[11-May-2017 19:50:51 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/agitat0r.newgrounds.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[12-May-2017 00:25:47 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/hoingay.luutru360.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 00:25:47 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/hoingay.luutru360.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 00:25:47 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/hoingay.luutru360.com8232.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 03:56:40 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /home/trungnhan/public_html/img.php on line 176
+[12-May-2017 03:56:40 UTC] PHP Warning:  file_get_contents(http://boom.vn/): failed to open stream: php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /home/trungnhan/public_html/img.php on line 176
+[12-May-2017 03:56:40 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/trungnhan/public_html/img.php on line 179
+[12-May-2017 14:38:56 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[12-May-2017 14:41:55 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[12-May-2017 21:28:53 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/go.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:53 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/go.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:53 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/go.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/kt-browser.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/kt-browser.com
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:54 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/kt-browser.com
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:59 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/didongviet.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:59 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/didongviet.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:28:59 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/didongviet.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:29:01 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tlmetals.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:29:01 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tlmetals.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[12-May-2017 21:29:01 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tlmetals.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 00:01:23 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/Dongthapseo.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[13-May-2017 00:01:31 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/Longvan.link8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[13-May-2017 01:08:07 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/Dongthapseo.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[13-May-2017 01:08:15 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/Longvan.link8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[13-May-2017 01:08:24 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[13-May-2017 01:08:24 UTC] PHP Warning:  file_get_contents(http://danmuit.net/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[13-May-2017 01:08:24 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/trungnhan/public_html/img.php on line 179
+[13-May-2017 06:32:59 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vietlike.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 06:32:59 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vietlike.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 06:32:59 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vietlike.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 06:34:21 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitr.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 06:34:21 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitr.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 06:34:21 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitr.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 09:00:13 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[13-May-2017 09:00:13 UTC] PHP Warning:  file_get_contents(http://mono2014.com/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trungnhan/public_html/img.php on line 176
+[13-May-2017 09:00:13 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/trungnhan/public_html/img.php on line 179
+[13-May-2017 10:09:42 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 10:09:42 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 10:09:42 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 14:30:43 UTC] PHP Notice:  Undefined index: port in /home/trungnhan/public_html/tag.php on line 281
+[13-May-2017 14:30:43 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/beensomewhere.bizQkPjZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 14:30:43 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/beensomewhere.bizQkPjZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 14:30:43 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/beensomewhere.bizQkPjZ.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 20:50:06 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/trungnhan/public_html/img.php on line 176
+[13-May-2017 20:50:06 UTC] PHP Warning:  file_get_contents(http://iwish.com/): failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/trungnhan/public_html/img.php on line 176
+[13-May-2017 20:50:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/trungnhan/public_html/img.php on line 179
+[13-May-2017 20:58:55 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 20:58:55 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[13-May-2017 20:58:55 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 04:54:23 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/ww38.phim6s.net.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 04:54:23 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/ww38.phim6s.net.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 04:54:23 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/ww38.phim6s.net.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 07:11:28 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 07:11:28 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 07:11:28 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 08:44:13 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/clixhunter.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 08:44:13 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/clixhunter.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 08:44:13 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/clixhunter.com .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 10:48:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tlmetals.vn .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 10:48:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tlmetals.vn .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 10:48:54 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tlmetals.vn .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 11:35:32 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/4dsecret.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 11:35:32 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/4dsecret.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 11:35:32 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/4dsecret.com .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 13:19:21 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/kt-browser.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 13:19:21 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/kt-browser.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 13:19:21 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/kt-browser.com .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 15:40:39 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/go.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 15:40:39 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/go.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 15:40:39 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/go.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[15-May-2017 19:17:40 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[15-May-2017 19:23:56 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[15-May-2017 19:28:42 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[16-May-2017 03:09:50 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[16-May-2017 03:09:50 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[16-May-2017 03:09:50 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[16-May-2017 04:18:23 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/hoingay.luutru360.com8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[16-May-2017 06:56:09 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/luutru360.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[16-May-2017 06:56:09 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/luutru360.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[16-May-2017 06:56:09 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/luutru360.com .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[16-May-2017 23:51:40 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/vov1.vnDefault.aspx.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[17-May-2017 12:18:16 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 12:18:16 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 12:18:16 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 14:26:01 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/duolingo.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 14:26:01 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/duolingo.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 14:26:01 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/duolingo.com .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 14:45:34 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 14:45:34 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[17-May-2017 14:45:34 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[18-May-2017 13:45:22 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/survey-winner.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[18-May-2017 13:45:22 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/survey-winner.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[18-May-2017 13:45:22 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/survey-winner.com.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[18-May-2017 19:43:35 UTC] PHP Notice:  Undefined offset: 1 in /home/trungnhan/public_html/laivt_firewall.php on line 172
+[18-May-2017 23:25:58 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[18-May-2017 23:28:29 UTC] PHP Notice:  Undefined variable: wait in /home/trungnhan/public_html/laivt_firewall.php on line 214
+[19-May-2017 12:23:26 UTC] PHP Notice:  Undefined offset: 1 in /home/trungnhan/public_html/laivt_firewall.php on line 172
+[20-May-2017 00:33:00 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww38.danangspace.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[20-May-2017 13:29:31 UTC] PHP Notice:  Undefined offset: 1 in /home/trungnhan/public_html/laivt_firewall.php on line 172
+[20-May-2017 13:52:10 UTC] PHP Notice:  Undefined index: port in /home/trungnhan/public_html/tag.php on line 281
+[20-May-2017 13:52:10 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/howold.comZVaaZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 13:52:10 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/howold.comZVaaZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 13:52:10 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/howold.comZVaaZ.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 14:01:48 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 14:01:48 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 14:01:48 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 14:01:52 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 14:01:52 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 14:01:52 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/tuoitre.vn
+.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 15:30:49 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/home.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 15:30:49 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/home.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 15:30:49 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/home.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 20:18:50 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/ww38.danangspace.com.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[20-May-2017 20:39:51 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 20:39:51 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 20:39:51 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 20:40:24 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 20:40:24 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 20:40:24 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 21:34:05 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/4ddraw.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 21:34:05 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/4ddraw.com .txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[20-May-2017 21:34:05 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/4ddraw.com .txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 01:00:09 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/analytics.google.comanalyticsweb.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 01:00:09 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/analytics.google.comanalyticsweb.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 01:00:09 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/analytics.google.comanalyticsweb.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 09:04:54 UTC] PHP Notice:  Undefined index: port in /home/trungnhan/public_html/tag.php on line 281
+[21-May-2017 09:04:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/howold.comPUYdZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 09:04:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/howold.comPUYdZ.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 09:04:54 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/howold.comPUYdZ.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 14:12:05 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[21-May-2017 15:37:57 UTC] PHP Warning:  fopen(/home/trungnhan/public_html/tieude/vungdatsenhong.tk8232.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 129
+[21-May-2017 18:05:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/sohagame.vn.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 18:05:54 UTC] PHP Warning:  include(/home/trungnhan/public_html/tieude/sohagame.vn.txt): failed to open stream: No such file or directory in /home/trungnhan/public_html/tag.php on line 36
+[21-May-2017 18:05:54 UTC] PHP Warning:  include(): Failed opening '/home/trungnhan/public_html/tieude/sohagame.vn.txt' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/trungnhan/public_html/tag.php on line 36
